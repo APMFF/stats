@@ -49,6 +49,11 @@
   margin: auto;
 }
 
+.color-legend ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 5%;
+}
 .color-legend-item {
   width: 10px;
   height: 10px;
